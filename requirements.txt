@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+plotly==5.15.0
+scikit-learn
+streamlit==1.24.1
+bertopic
+wordcloud
+holoviews
+bokeh
