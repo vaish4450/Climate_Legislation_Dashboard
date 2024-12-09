@@ -17,7 +17,7 @@ st.set_page_config(
 # Custom CSS for climate-related colors
 st.markdown(
     """
-    
+    <style>
     /* Tab colors */
     .stTabs [data-baseweb="tab"] {
         background-color: transparent; /* No background color for tabs */
