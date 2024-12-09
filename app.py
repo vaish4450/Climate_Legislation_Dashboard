@@ -15,13 +15,7 @@ st.set_page_config(
 )
 
 # Custom CSS for climate-related colors
-st.markdown(
-    """
-    <style>
-    /* Light background for the main page */
-    .main {
-        background-color: #f5f5f5;
-    }
+
     
     /* Tab colors */
     .stTabs [data-baseweb="tab"] {
