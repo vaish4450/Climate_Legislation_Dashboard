@@ -15,7 +15,8 @@ st.set_page_config(
 )
 
 # Custom CSS for climate-related colors
-
+st.markdown(
+    """
     
     /* Tab colors */
     .stTabs [data-baseweb="tab"] {
