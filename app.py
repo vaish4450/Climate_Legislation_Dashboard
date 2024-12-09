@@ -252,19 +252,10 @@ with tabs[4]:  # Assuming this is the "Topic Correlations" tab
 
     - **Strong Interdependencies**:
         - **Topic 0: Arkansas_Appropriation_Fiscal_Year** shows strong connections with other topics, particularly fiscal and resource management-related themes, indicating its central role in climate-related policymaking.
-        - **Topic 6: Forest_Tree_Conservation_Land** frequently connects with **Topic 7: Air_Pollution_Section_Safety**, showcasing a legislative focus on linking natural resource management with pollution control.
-
-    - **Key Co-Occurrences**:
-        - **Topic 1: Recycling_Waste_Recycle_Solid** is closely linked to **Topic 2: Property_County_Body_Governance**, reflecting a connection between waste management and local governance in addressing sustainability.
-        - **Topic 10: Vehicle_Electric_Charge_Zeroemission** demonstrates strong ties with **Topic 12: Historic_Zone_Revitalization_Credit**, emphasizing efforts to combine clean transportation infrastructure with historic preservation incentives.
-
-    - **Topic Clusters**:
-        - **Topic 3: Wildlife_License_Fish_Trap** clusters with **Topic 4: Section_Code_Add_Utility**, reflecting integrated efforts to address wildlife conservation alongside infrastructure regulation.
-        - **Topic 8: Administration_Finance_Commerce_Appropriation** is a common bridge across multiple clusters, underscoring the financial mechanisms driving legislative priorities.
-
+        
     - **Insights from the Green Highlights**:
         - Hovering over specific nodes in the chord diagram reveals the direct connections between a selected topic and its related counterparts.
-        - For example, **Topic 5: Town_Parcel_Municipality_Land** shows connections to topics like **Topic 6: Forest_tree_Conservation_land**, highlighting geographic and local planning elements in climate bills.
+        - For example, **Topic 5: Town_Parcel_Municipality_Land** shows no connections to any topics.
 
     - **Actionable Insight**:
         - These connections indicate opportunities for policymakers to address interconnected topics together for more holistic and impactful climate legislation. For instance, combining fiscal measures (**Topic 0**) with clean energy investments (**Topic 10**) could maximize the effectiveness of climate-related initiatives.
