@@ -21,7 +21,7 @@ st.markdown(
     /* Tab colors */
     .stTabs [data-baseweb="tab"] {
         background-color: transparent; /* No background color for tabs */
-        color: black; /* Default tab text color */
+        color: white; /* Default tab text color */
         font-weight: bold; /* Emphasize text */
     }
 
